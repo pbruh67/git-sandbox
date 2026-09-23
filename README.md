@@ -1,6 +1,6 @@
 ## Description
 
-A Unity adventure shooting game project.
+A Unity competitive shooting game project.
 
 ## Features
 
