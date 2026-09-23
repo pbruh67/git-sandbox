@@ -1,6 +1,6 @@
 ## Description
 
-A Unity adventure shooting game project.
+A Unity competitive shooting game project.
 
 ## Features
 
@@ -15,3 +15,11 @@ Open the project using Unity Hub.
 
 Developed as a Unity game project.
 
+## Credits
+Nihal
+
+## Developer
+Created by Nihal.
+
+## Version
+Version 1.0
