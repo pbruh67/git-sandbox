@@ -1,6 +1,6 @@
 ## Description
 
-A Unity game development project.
+A Unity adventure game project.
 
 ## Features
 
