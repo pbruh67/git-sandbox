@@ -1,1 +1,3 @@
-﻿# Unity Game Project
+
+## Description
+A Unity game development project.
