@@ -5,3 +5,6 @@ A Unity game development project.
 ## Features
 - Player movement
 - Game environment
+
+## Installation
+Open the project using Unity Hub.
