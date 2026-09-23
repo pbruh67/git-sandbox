@@ -15,3 +15,11 @@ Open the project using Unity Hub.
 
 Developed as a Unity game project.
 
+## Credits
+Nihal
+
+## Developer
+Created by Nihal.
+
+## Version
+Version 1.0
