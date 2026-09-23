@@ -11,7 +11,7 @@ A Unity adventure shooting game project.
 
 Open the project using Unity Hub.
 
-\## Team
+## Team
 
 Developed as a Unity game project.
 
